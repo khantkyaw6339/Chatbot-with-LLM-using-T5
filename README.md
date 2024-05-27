@@ -20,8 +20,8 @@ The model used in this project can be found on Hugging Face under the name googl
 
 ## Dataset
 The OASST1 dataset used for fine-tuning contains conversations that simulate interactions between a user and an assistant. The dataset is split into two parts:
-- oasst1-train.csv: Training dataset
-- oasst1-val.csv: Validation dataset
+- df_train.csv: Training dataset
+- df_val.csv: Validation dataset
     
 ## Installation
 To use the assistant chatbot, you'll need to install the required packages. You can do this using pip:
