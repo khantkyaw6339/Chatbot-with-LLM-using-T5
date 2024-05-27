@@ -8,7 +8,6 @@ This project involves creating a chatbot using a fine-tuned T5 model. The model 
 - Dataset
 - Installation
 - Usage
-- Fine-Tuning Process
 - Contributing
 - License
 
@@ -51,9 +50,6 @@ def generate_response(input_text):
     return generated_text
 generate_response("how to be healthy?")
 ```
-## Fine-Tuning Process
-The repository includes the script for fine-tuning the T5 model. You can use train.py to start the fine-tuning process.
-
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or find a bug, please open an issue or submit a pull request.
 
