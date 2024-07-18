@@ -1,7 +1,7 @@
 # Chatbot-with-LLM-using-T5
 This project involves creating a chatbot using a fine-tuned T5 model. The model has been trained on the OASST1 dataset and is designed to to assist users with various tasks and queries.. The fine-tuned model is uploaded to Hugging Face under the name [KhantKyaw/T5-small_new_chatbot](https://huggingface.co/KhantKyaw/T5-small_new_chatbot). 
 
-![T5](main/T5.png)
+![T5](T5.png)
 
 ## Table of Contents
 
